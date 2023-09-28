@@ -60,7 +60,7 @@ I learned to use animation and its differents properties.
 
 I will work on animation, to improve my skill in css.
 
-Learning from different challenge, going on making website on Font-End Mentor.
+Learning from different challenge, going on making website on Front-End Mentor.
 
 ### Useful resources
 
